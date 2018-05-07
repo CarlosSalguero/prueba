@@ -5,6 +5,6 @@ public class Prueba {
 			System.out.println("Hola Mundo");
 			}
 		System.out.println("Hello");
-		Syem.out.println("Hello2");
+		Syemt.out.println("Hello2");
 		}
 }
