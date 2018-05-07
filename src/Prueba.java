@@ -5,6 +5,6 @@ public class Prueba {
 			System.out.println("Hola Mundo");
 			}
 		System.out.println("Hello");
-		Syste.out.println("Hello2");
+		System.out.println("Hello2");
 		}
 }
